@@ -1,6 +1,6 @@
 ### Hi, I'm Jokubas
 
-I am a software engineer specialising in web development. I am proficient in Typescript, React, Angular, Redux, NodeJS, Express, Koa, GraphQL, PostgreSQL, Prisma, MongoDB, Mongoose.
+I am a software engineer specialising in web development. I am proficient in Typescript, React, Angular, Redux, RxJS, NodeJS, Express, Koa, GraphQL, PostgreSQL, Prisma, MongoDB, Mongoose.
 
 ### Tech Stack:
 <p>
@@ -8,6 +8,7 @@ I am a software engineer specialising in web development. I am proficient in Typ
   <img src="https://user-images.githubusercontent.com/74729619/123448123-7b18bf80-d5d2-11eb-8914-dcd07c16c33b.png" width="60px" height="60px">
   <img src="https://user-images.githubusercontent.com/74729619/123448179-89ff7200-d5d2-11eb-9690-03db81fccbbe.png" width="60px" height="60px">
   <img src="https://user-images.githubusercontent.com/74729619/123448190-8d92f900-d5d2-11eb-954c-a81811c294d2.png" width="60px" height="60px">
+  <img src="https://user-images.githubusercontent.com/74729619/123450322-85d45400-d5d4-11eb-8928-6ded76eda3db.png" width="60px" height="60px">
   <img src="https://user-images.githubusercontent.com/74729619/123448207-9257ad00-d5d2-11eb-94c6-83d9d2dee8de.png" width="60px" height="60px">
   <img src="https://user-images.githubusercontent.com/74729619/123448231-984d8e00-d5d2-11eb-8a8e-8c01042c3f51.png" width="60px" height="60px">
   <img src="https://user-images.githubusercontent.com/74729619/123448250-9d124200-d5d2-11eb-8b34-bd3166322870.png" width="60px" height="60px">
